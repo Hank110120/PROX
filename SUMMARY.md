@@ -11,4 +11,5 @@
 * [開啟WINDOWS更新](xin-ding-fang-shi/untitled-1.md)
 * [修改USB隨身碟代號為P](xin-ding-fang-shi/xiu-gai-usb-shen-die-dai-p.md)
 * [修改DB備份檔客戶名稱](xin-ding-fang-shi/xiu-gai-db-fen-ke-ming.md)
+* [AP安裝](xin-ding-fang-shi/ap-an.md)
 
